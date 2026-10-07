@@ -1,0 +1,201 @@
+first_name,last_name,age,salary,department
+Νίκος,Σαμαράς,39.0,73003.0,Software Development
+Χριστίνα,Λαμπρόπουλος,59.0,80926.0,DevOps & Infrastructure
+Δημήτρης,Καραγιάννης,51.0,81524.0,Software Development
+Αλέξανδρος,Ιωάννου,57.0,94744.0,Product Management
+Γιάννης,Μιχαηλίδης,30.0,38546.0,Quality Assurance
+Ελένη,Νικολαΐδης,56.0,56093.0,Software Development
+Αναστασία,Αντωνίου,37.0,35015.0,Software Development
+Κώστας,Αντωνίου,59.0,,Product Management
+Σοφία,Γεωργίου,48.0,35594.0,Software Development
+Ευαγγελία,Παναγόπουλος,52.0,46029.0,DevOps & Infrastructure
+Νίκος,Αλεξίου,53.0,53206.0,DevOps & Infrastructure
+Νίκος,Ιωάννου,44.0,67280.0,DevOps & Infrastructure
+Κατερίνα,Αντωνίου,30.0,40973.0,Quality Assurance
+Ιωάννα,Δημητρίου,52.0,46311.0,Quality Assurance
+Δημήτρης,Παναγόπουλος,40.0,47703.0,DevOps & Infrastructure
+Ευαγγελία,Καραγιάννης,54.0,37583.0,Technical Support
+Βασιλική,Παπαδόπουλος,34.0,52066.0,Quality Assurance
+Θανάσης,Κωνσταντίνου,,53944.0,Quality Assurance
+Θανάσης,Δημητρίου,27.0,85265.0,Product Management
+Παναγιώτης,Νικολαΐδης,,73420.0,Product Management
+Μαρία,Δημητρίου,54.0,86280.0,DevOps & Infrastructure
+Σπύρος,Λαμπρόπουλος,55.0,73313.0,Software Development
+Θανάσης,Σταυρόπουλος,30.0,32280.0,Technical Support
+Ιωάννα,Αλεξίου,57.0,54142.0,Product Management
+Θανάσης,Χατζηδάκης,41.0,72622.0,DevOps & Infrastructure
+Γιάννης,Σαμαράς,54.0,31428.0,Quality Assurance
+Αγγελική,Ράπτης,58.0,79022.0,Product Management
+Νίκος,Γεωργίου,22.0,48339.0,Software Development
+Παναγιώτης,Κωνσταντίνου,53.0,82822.0,DevOps & Infrastructure
+Ευαγγελία,Αλεξίου,22.0,,Quality Assurance
+Ελένη,Τσακίρης,28.0,59895.0,Software Development
+Μιχάλης,Αντωνίου,,28138.0,Technical Support
+Σπύρος,Ράπτης,26.0,40021.0,Technical Support
+Γιάννης,Αντωνίου,38.0,67642.0,Product Management
+Πέτρος,Κωνσταντίνου,38.0,47487.0,Product Management
+Δημήτρης,Παπαδόπουλος,44.0,32464.0,Technical Support
+Μιχάλης,Δημητρίου,23.0,34500.0,Quality Assurance
+Σοφία,Καραγιάννης,60.0,26942.0,Technical Support
+Κατερίνα,Λαμπρόπουλος,53.0,81371.0,DevOps & Infrastructure
+Αλέξανδρος,Ράπτης,47.0,42319.0,Quality Assurance
+Δημήτρης,Σταυρόπουλος,34.0,66172.0,Software Development
+Θανάσης,Σαμαράς,60.0,53862.0,DevOps & Infrastructure
+Σοφία,Ζαχαριάδης,30.0,,Product Management
+Νίκος,Μιχαηλίδης,32.0,39961.0,Quality Assurance
+Αναστασία,Βασιλείου,55.0,67445.0,Product Management
+Παναγιώτης,Ζαχαριάδης,38.0,50271.0,Quality Assurance
+Μιχάλης,Χατζηδάκης,32.0,65501.0,Software Development
+Αναστασία,Αλεξίου,58.0,69168.0,DevOps & Infrastructure
+Μιχάλης,Ζαχαριάδης,44.0,27395.0,Technical Support
+Κώστας,Καραγιάννης,32.0,,Product Management
+Γιάννης,Χατζηδάκης,23.0,74104.0,Software Development
+Ελένη,Γεωργίου,49.0,29713.0,Technical Support
+Αναστασία,Δημητρίου,49.0,63635.0,DevOps & Infrastructure
+Κώστας,Ιωάννου,47.0,33715.0,Technical Support
+Δημήτρης,Μιχαηλίδης,34.0,33867.0,Technical Support
+Αναστασία,Ράπτης,48.0,45431.0,Quality Assurance
+Αγγελική,Μιχαηλίδης,26.0,74552.0,DevOps & Infrastructure
+Θανάσης,Παπαδόπουλος,43.0,64053.0,DevOps & Infrastructure
+Κώστας,Καραγιάννης,57.0,89095.0,Product Management
+Κώστας,Ράπτης,54.0,75848.0,Product Management
+Ιωάννα,Λαμπρόπουλος,42.0,77746.0,Software Development
+Κώστας,Παναγόπουλος,26.0,70978.0,DevOps & Infrastructure
+Αλέξανδρος,Μιχαηλίδης,56.0,48878.0,Product Management
+Γιάννης,Παπαδόπουλος,59.0,,DevOps & Infrastructure
+Νίκος,Βασιλείου,47.0,64258.0,DevOps & Infrastructure
+Πέτρος,Παναγόπουλος,59.0,46603.0,Quality Assurance
+Μαρία,Λαμπρόπουλος,41.0,39297.0,Quality Assurance
+Αλέξανδρος,Νικολαΐδης,39.0,58820.0,Software Development
+Κατερίνα,Ιωάννου,33.0,70301.0,Product Management
+Κώστας,Καραγιάννης,52.0,30729.0,Technical Support
+Βασιλική,Δημητρίου,57.0,27695.0,Technical Support
+Σοφία,Παπαδόπουλος,57.0,91070.0,Product Management
+Σοφία,Βασιλείου,40.0,53587.0,Software Development
+Σπύρος,Παπαδόπουλος,49.0,66996.0,Software Development
+Ελένη,Σαμαράς,57.0,51771.0,Software Development
+Αγγελική,Αλεξίου,51.0,40192.0,Quality Assurance
+Δημήτρης,Καρράς,56.0,54562.0,Quality Assurance
+Μαρία,Σαμαράς,48.0,78030.0,Software Development
+Πέτρος,Λαμπρόπουλος,25.0,31849.0,Quality Assurance
+Ελένη,Δημητρίου,31.0,79816.0,Software Development
+Βασιλική,Καραγιάννης,41.0,31112.0,Technical Support
+Πέτρος,Καρράς,31.0,,Software Development
+Βασιλική,Ιωάννου,,44678.0,DevOps & Infrastructure
+Μιχάλης,Σαμαράς,50.0,37560.0,Technical Support
+Πέτρος,Γεωργίου,38.0,,Quality Assurance
+Παναγιώτης,Τσακίρης,25.0,34837.0,Quality Assurance
+Βασιλική,Λαμπρόπουλος,36.0,35960.0,Quality Assurance
+Μαρία,Τσακίρης,43.0,82218.0,DevOps & Infrastructure
+Μαρία,Κωνσταντίνου,36.0,47266.0,Product Management
+Θανάσης,Χατζηδάκης,47.0,78801.0,Software Development
+Γιάννης,Χατζηδάκης,50.0,30078.0,Technical Support
+Δημήτρης,Γεωργίου,51.0,50746.0,DevOps & Infrastructure
+Σοφία,Βασιλείου,30.0,48546.0,DevOps & Infrastructure
+Νίκος,Αντωνίου,60.0,42093.0,Quality Assurance
+Μαρία,Λαμπρόπουλος,26.0,81725.0,Software Development
+Αλέξανδρος,Παναγόπουλος,37.0,47024.0,Product Management
+Αλέξανδρος,Ιωάννου,34.0,54034.0,Software Development
+Αναστασία,Δημητρίου,38.0,34150.0,Technical Support
+Νίκος,Σταυρόπουλος,38.0,51386.0,Quality Assurance
+Σπύρος,Καρράς,44.0,83746.0,Product Management
+Νίκος,Ιωάννου,49.0,53738.0,Quality Assurance
+Αναστασία,Αντωνίου,57.0,86790.0,DevOps & Infrastructure
+Βασιλική,Χατζηδάκης,54.0,36548.0,Quality Assurance
+Δημήτρης,Γεωργίου,48.0,41031.0,DevOps & Infrastructure
+Ιωάννα,Αλεξίου,,92371.0,Product Management
+Ελένη,Ράπτης,54.0,42164.0,Software Development
+Θανάσης,Ράπτης,,84735.0,Software Development
+Πέτρος,Νικολαΐδης,43.0,65869.0,DevOps & Infrastructure
+Σοφία,Βασιλείου,56.0,48417.0,Product Management
+Χριστίνα,Κωνσταντίνου,28.0,,DevOps & Infrastructure
+Παναγιώτης,Αλεξίου,27.0,38407.0,Technical Support
+Γιάννης,Παναγόπουλος,34.0,28071.0,Technical Support
+Κώστας,Καρράς,22.0,86423.0,DevOps & Infrastructure
+Μιχάλης,Τσακίρης,30.0,57301.0,DevOps & Infrastructure
+Γιάννης,Βασιλείου,25.0,40915.0,Software Development
+Αναστασία,Τσακίρης,42.0,35798.0,Technical Support
+Χριστίνα,Τσακίρης,27.0,73571.0,Software Development
+Σοφία,Αντωνίου,39.0,48802.0,Quality Assurance
+Χριστίνα,Σαμαράς,46.0,83988.0,DevOps & Infrastructure
+Αλέξανδρος,Καραγιάννης,36.0,68800.0,DevOps & Infrastructure
+Κατερίνα,Μιχαηλίδης,53.0,,Product Management
+Μιχάλης,Τσακίρης,58.0,38672.0,Technical Support
+Ιωάννα,Καρράς,25.0,55615.0,DevOps & Infrastructure
+Μαρία,Παναγόπουλος,55.0,31074.0,Technical Support
+Κώστας,Αντωνίου,29.0,29980.0,Quality Assurance
+Σοφία,Αλεξίου,26.0,47329.0,DevOps & Infrastructure
+Σπύρος,Καραγιάννης,44.0,38843.0,Quality Assurance
+Νίκος,Σαμαράς,59.0,65301.0,Product Management
+Κατερίνα,Μιχαηλίδης,56.0,26879.0,Technical Support
+Κώστας,Κωνσταντίνου,60.0,71413.0,Software Development
+Δημήτρης,Καραγιάννης,59.0,54632.0,DevOps & Infrastructure
+Κατερίνα,Παπαδόπουλος,54.0,82505.0,DevOps & Infrastructure
+Χριστίνα,Μιχαηλίδης,50.0,68999.0,DevOps & Infrastructure
+Ιωάννα,Βασιλείου,51.0,73122.0,DevOps & Infrastructure
+Αλέξανδρος,Σταυρόπουλος,54.0,35032.0,Software Development
+Ιωάννα,Χατζηδάκης,49.0,33717.0,Technical Support
+Νίκος,Βασιλείου,33.0,54657.0,Quality Assurance
+Δημήτρης,Νικολαΐδης,42.0,46347.0,Product Management
+Θανάσης,Τσακίρης,39.0,75575.0,Product Management
+Κατερίνα,Ιωάννου,34.0,71769.0,Software Development
+Μαρία,Καραγιάννης,41.0,52803.0,Quality Assurance
+Αναστασία,Καρράς,33.0,34032.0,Technical Support
+Πέτρος,Μιχαηλίδης,50.0,30733.0,Technical Support
+Γιάννης,Κωνσταντίνου,31.0,41424.0,Technical Support
+Πέτρος,Ιωάννου,23.0,49064.0,Quality Assurance
+Μιχάλης,Παναγόπουλος,43.0,76841.0,Product Management
+Σοφία,Βασιλείου,26.0,83779.0,Product Management
+Γιάννης,Αντωνίου,44.0,39634.0,Quality Assurance
+Γιάννης,Τσακίρης,40.0,48558.0,DevOps & Infrastructure
+Σοφία,Χατζηδάκης,60.0,52775.0,Product Management
+Νίκος,Ιωάννου,44.0,45017.0,Quality Assurance
+Μαρία,Ράπτης,47.0,34493.0,Technical Support
+Πέτρος,Καραγιάννης,43.0,57334.0,Product Management
+Μαρία,Παναγόπουλος,59.0,76547.0,Product Management
+Θανάσης,Σταυρόπουλος,48.0,59596.0,Software Development
+Δημήτρης,Βασιλείου,53.0,47785.0,Product Management
+Κατερίνα,Λαμπρόπουλος,43.0,34091.0,Technical Support
+Μαρία,Ζαχαριάδης,39.0,26123.0,Technical Support
+Σπύρος,Παπαδόπουλος,40.0,31351.0,Quality Assurance
+Ευαγγελία,Μιχαηλίδης,46.0,83935.0,Software Development
+Ιωάννα,Ζαχαριάδης,48.0,41966.0,Software Development
+Ελένη,Παναγόπουλος,38.0,34935.0,Quality Assurance
+Θανάσης,Ζαχαριάδης,29.0,74319.0,Software Development
+Σπύρος,Λαμπρόπουλος,22.0,64013.0,DevOps & Infrastructure
+Ελένη,Σαμαράς,,63890.0,Software Development
+Ιωάννα,Γεωργίου,,28531.0,Technical Support
+Γιάννης,Ζαχαριάδης,40.0,50006.0,Product Management
+Αγγελική,Καραγιάννης,,61980.0,DevOps & Infrastructure
+Αγγελική,Ιωάννου,58.0,33749.0,Quality Assurance
+Σπύρος,Βασιλείου,33.0,33959.0,Technical Support
+Αναστασία,Λαμπρόπουλος,44.0,25422.0,Technical Support
+Μαρία,Δημητρίου,30.0,41517.0,Technical Support
+Νίκος,Σταυρόπουλος,54.0,70726.0,Product Management
+Αναστασία,Βασιλείου,41.0,89014.0,DevOps & Infrastructure
+Σοφία,Νικολαΐδης,28.0,73849.0,Software Development
+Δημήτρης,Δημητρίου,53.0,42899.0,DevOps & Infrastructure
+Σοφία,Ζαχαριάδης,35.0,25690.0,Technical Support
+Σοφία,Ιωάννου,59.0,53481.0,DevOps & Infrastructure
+Κώστας,Παναγόπουλος,56.0,64386.0,Software Development
+Κατερίνα,Καραγιάννης,26.0,37173.0,Technical Support
+Αναστασία,Σταυρόπουλος,59.0,42486.0,Quality Assurance
+Αγγελική,Καραγιάννης,26.0,44467.0,Quality Assurance
+Θανάσης,Καρράς,42.0,59002.0,DevOps & Infrastructure
+Κατερίνα,Καραγιάννης,44.0,49156.0,Quality Assurance
+Αλέξανδρος,Δημητρίου,31.0,38279.0,Quality Assurance
+Δημήτρης,Καραγιάννης,57.0,40029.0,Technical Support
+Σοφία,Δημητρίου,60.0,75315.0,DevOps & Infrastructure
+Παναγιώτης,Χατζηδάκης,57.0,53390.0,Quality Assurance
+Ιωάννα,Ράπτης,51.0,48408.0,Product Management
+Κώστας,Αντωνίου,35.0,89896.0,DevOps & Infrastructure
+Νίκος,Καρράς,34.0,,Quality Assurance
+Χριστίνα,Βασιλείου,28.0,33043.0,Quality Assurance
+Πέτρος,Παπαδόπουλος,49.0,43078.0,Software Development
+Πέτρος,Αλεξίου,,41210.0,Technical Support
+Ευαγγελία,Τσακίρης,38.0,33663.0,Technical Support
+Αγγελική,Μιχαηλίδης,26.0,82077.0,Software Development
+Ευαγγελία,Παπαδόπουλος,35.0,87935.0,Product Management
+Μαρία,Αντωνίου,26.0,82063.0,Software Development
+Σοφία,Κωνσταντίνου,59.0,47355.0,Product Management
+Αγγελική,Γεωργίου,26.0,81455.0,Product Management
